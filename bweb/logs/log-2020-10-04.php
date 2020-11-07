@@ -1,0 +1,125 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-04 12:00:02 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:15:15 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:16:59 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:16:59 --> 404 Page Not Found: Shell/index
+ERROR - 2020-10-04 12:21:07 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:21:15 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:21:16 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:21:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-04 12:21:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:21:42 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:21:42 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:22:31 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:22:39 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:22:39 --> Severity: Notice --> Trying to get property 'payment_status' of non-object /var/www/html/public_html/bweb/controllers/Secure.php 106
+ERROR - 2020-10-04 12:22:39 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:22:48 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:17 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:18 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:26 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:26 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:28 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:28 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:23:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:24:34 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:24:41 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:24:59 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:24:59 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:25:25 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:25:25 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:25:36 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:25:49 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:25:49 --> Could not find the language line "config_updated_message"
+ERROR - 2020-10-04 12:25:50 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:00 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:00 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:03 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:11 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:22 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:29 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:26:50 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:04 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:18 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:22 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:34 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:43 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:27:55 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:28:39 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:28:43 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:29:01 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:29:05 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:29:18 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:29:20 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:30:21 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:30:40 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:30:55 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:30:59 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:12 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:16 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:20 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:20 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:25 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:29 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:36 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:36 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:46 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:31:46 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:32:44 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:33:29 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:33:36 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:33:50 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:34:01 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:34:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:35:31 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:35:39 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:35:50 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:35:54 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:42:52 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:42:53 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:42:56 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:43:10 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:43:14 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:43:16 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:43:21 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:53:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 12:53:38 --> Could not find the language line "message_logged_out"
+ERROR - 2020-10-04 12:53:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:39:59 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:01 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:22 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:23 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-04 23:40:25 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:25 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:40:33 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:41:08 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:41:09 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:41:12 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:41:20 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:41:21 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:45:46 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:45:47 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:45:48 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:45:52 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:49:21 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:54:31 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:54:33 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:29 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:32 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:32 --> 404 Page Not Found: Bootstrapmincssmap/index
+ERROR - 2020-10-04 23:57:36 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:38 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:40 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:42 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:57:42 --> 404 Page Not Found: Bootstrapmincssmap/index
+ERROR - 2020-10-04 23:58:43 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:58:44 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:58:44 --> 404 Page Not Found: Bootstrapmincssmap/index
+ERROR - 2020-10-04 23:59:02 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:59:12 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:59:23 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:59:44 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.
+ERROR - 2020-10-04 23:59:46 --> $config['composer_autoload'] is set to TRUE but /var/www/html/public_html/bweb/vendor/autoload.php was not found.

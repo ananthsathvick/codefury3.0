@@ -1,0 +1,1 @@
+[11-Jan-2020 10:06:51 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/udyogconsultancy/public_html/demo/bweb/controllers/Employer.php on line 132

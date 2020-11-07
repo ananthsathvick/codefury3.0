@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /index.php
+Allow: /campus_selection.php
+Allow: /employer.php
+Allow: /candidate_login.php
+Allow: /client_list.php
+Allow: /contact.php
+sitemap: /sitemap.xml

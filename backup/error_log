@@ -1,0 +1,242 @@
+[24-Sep-2018 04:53:55 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/udyogconsultancy/public_html/candidate_register.php on line 396
+[24-Sep-2018 11:10:46 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/udyogconsultancy/public_html/candidate_register.php on line 396
+[24-Sep-2018 11:12:29 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/udyogconsultancy/public_html/candidate_register.php on line 396
+[25-Sep-2018 06:27:40 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/udyogconsultancy/public_html/candidate_register.php on line 396
+[08-Oct-2018 05:51:37 UTC] PHP Warning:  include(library.php): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/candidate_register.php on line 340
+[08-Oct-2018 05:51:37 UTC] PHP Warning:  include(library.php): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/candidate_register.php on line 340
+[08-Oct-2018 05:51:37 UTC] PHP Warning:  include(): Failed opening 'library.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/udyogconsultancy/public_html/candidate_register.php on line 340
+[12-Oct-2018 10:38:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[12-Oct-2018 19:08:04 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[12-Oct-2018 19:08:04 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[12-Oct-2018 19:08:04 Etc/GMT] PHP Warning:  include(): Failed opening 'sticky.html' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/udyogconsultancy/public_html/index.php on line 3
+[13-Oct-2018 02:06:06 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 05:25:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 05:25:40 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 08:13:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 09:47:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 09:47:24 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[13-Oct-2018 09:47:24 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[13-Oct-2018 09:47:24 Etc/GMT] PHP Warning:  include(): Failed opening 'sticky.html' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/udyogconsultancy/public_html/index.php on line 3
+[13-Oct-2018 16:11:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 17:29:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 18:32:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 21:48:46 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 22:06:03 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[13-Oct-2018 22:11:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 01:50:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 02:25:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 06:58:30 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[14-Oct-2018 06:58:30 Etc/GMT] PHP Warning:  include(sticky.html): failed to open stream: No such file or directory in /home/udyogconsultancy/public_html/index.php on line 3
+[14-Oct-2018 06:58:30 Etc/GMT] PHP Warning:  include(): Failed opening 'sticky.html' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/udyogconsultancy/public_html/index.php on line 3
+[14-Oct-2018 06:58:30 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 11:06:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 11:18:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 12:00:43 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 18:35:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[14-Oct-2018 23:29:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[15-Oct-2018 05:57:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'udyogconsultancy_demouser'@'localhost' (using password: YES) in /home/udyogconsultancy/public_html/db.php on line 9
+[15-Oct-2018 06:36:14 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/udyogconsultancy/public_html/db.php on line 9
+[15-Oct-2018 06:36:20 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/udyogconsultancy/public_html/db.php on line 9
+[17-Oct-2018 07:29:29 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[30-Oct-2018 04:58:07 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[01-Nov-2018 11:26:31 Etc/GMT] PHP Notice:  Undefined index: canid in /home/udyogconsultancy/public_html/cemailverify.php on line 207
+[01-Nov-2018 11:43:37 Etc/GMT] PHP Notice:  Undefined index: canid in /home/udyogconsultancy/public_html/cemailverify.php on line 207
+[02-Nov-2018 05:24:11 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:24:51 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:26:02 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:31:13 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:31:32 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:33:17 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:50:11 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:53:43 Etc/GMT] PHP Notice:  Undefined index: payment_request in /home/udyogconsultancy/public_html/mojo.php on line 72
+[02-Nov-2018 05:56:43 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[02-Nov-2018 05:56:43 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[02-Nov-2018 05:56:43 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[02-Nov-2018 05:56:43 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[02-Nov-2018 05:56:43 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[02-Nov-2018 06:02:57 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[02-Nov-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[02-Nov-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[02-Nov-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[02-Nov-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[02-Nov-2018 06:08:50 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[02-Nov-2018 11:40:21 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[02-Nov-2018 11:40:21 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[02-Nov-2018 11:40:21 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[02-Nov-2018 11:40:21 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[02-Nov-2018 11:40:21 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[02-Nov-2018 11:43:48 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[02-Nov-2018 11:47:11 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[02-Nov-2018 11:48:00 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[02-Nov-2018 11:48:00 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[02-Nov-2018 11:48:00 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[02-Nov-2018 11:48:00 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[02-Nov-2018 11:48:17 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/cchange_pwd.php on line 195
+[02-Nov-2018 11:48:17 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/cchange_pwd.php on line 216
+[02-Nov-2018 11:48:18 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[02-Nov-2018 11:48:18 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[02-Nov-2018 11:48:18 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[02-Nov-2018 11:48:18 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[03-Nov-2018 04:48:23 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[03-Nov-2018 04:54:53 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[08-Nov-2018 06:20:52 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[08-Nov-2018 09:15:37 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_edit.php on line 199
+[08-Nov-2018 09:15:38 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_edit.php on line 220
+[08-Nov-2018 09:16:36 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_edit.php on line 199
+[08-Nov-2018 09:16:36 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_edit.php on line 220
+[08-Nov-2018 09:18:31 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[08-Nov-2018 12:20:48 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[09-Nov-2018 08:22:57 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[14-Nov-2018 09:22:58 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[14-Nov-2018 09:22:58 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[14-Nov-2018 09:37:12 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 09:37:12 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 09:37:12 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 09:37:12 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 09:37:12 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 09:39:19 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 09:39:19 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 09:39:19 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 09:39:19 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 09:39:19 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 09:40:39 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 09:42:09 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 09:42:09 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 09:42:09 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 09:49:34 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[14-Nov-2018 09:49:38 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[14-Nov-2018 09:51:34 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[14-Nov-2018 10:18:21 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 10:18:21 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 10:18:21 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 10:18:21 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 10:18:21 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 10:20:36 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 10:37:41 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 10:37:41 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 10:37:41 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 10:37:41 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 10:37:41 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 10:42:35 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 10:42:35 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 10:42:35 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 10:42:35 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 10:42:35 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 11:06:22 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 11:09:03 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 11:11:12 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 11:42:21 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[14-Nov-2018 11:42:21 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[14-Nov-2018 11:42:21 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[14-Nov-2018 11:42:21 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[14-Nov-2018 11:42:47 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[14-Nov-2018 11:42:47 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[14-Nov-2018 11:42:47 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[14-Nov-2018 11:42:47 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[14-Nov-2018 11:42:50 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 11:42:50 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 11:42:50 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 11:42:50 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 11:42:50 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 12:13:18 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 12:24:21 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 12:24:21 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 12:24:21 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 12:24:21 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 12:24:21 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 12:26:49 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 14:00:20 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 14:00:20 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[14-Nov-2018 14:00:20 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[14-Nov-2018 14:00:20 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 14:00:20 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 14:04:51 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 14:04:51 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[14-Nov-2018 14:04:51 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[14-Nov-2018 14:07:14 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[14-Nov-2018 14:10:46 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/cchange_pwd.php on line 195
+[14-Nov-2018 14:10:46 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/cchange_pwd.php on line 216
+[14-Nov-2018 16:18:30 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[14-Nov-2018 16:21:29 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[15-Nov-2018 04:18:34 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[15-Nov-2018 06:16:30 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[15-Nov-2018 06:16:30 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[15-Nov-2018 06:16:30 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[15-Nov-2018 06:16:30 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[15-Nov-2018 06:16:30 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[15-Nov-2018 06:18:09 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[15-Nov-2018 06:37:02 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[15-Nov-2018 07:28:20 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[15-Nov-2018 08:53:28 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[15-Nov-2018 11:56:10 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[15-Nov-2018 12:04:49 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[15-Nov-2018 18:47:15 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[15-Nov-2018 18:47:15 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[15-Nov-2018 18:47:15 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[15-Nov-2018 18:47:15 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[15-Nov-2018 18:47:15 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[15-Nov-2018 18:49:47 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[16-Nov-2018 06:59:32 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[16-Nov-2018 08:34:25 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[17-Nov-2018 08:11:24 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[17-Nov-2018 12:46:55 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[18-Nov-2018 06:46:39 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[20-Nov-2018 04:17:22 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[21-Nov-2018 05:18:58 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[23-Nov-2018 04:36:24 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[23-Nov-2018 07:19:28 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[23-Nov-2018 07:22:05 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[23-Nov-2018 07:22:05 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[23-Nov-2018 07:22:05 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[23-Nov-2018 07:22:05 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[23-Nov-2018 07:22:05 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[23-Nov-2018 07:24:30 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[26-Nov-2018 07:33:39 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[27-Nov-2018 09:44:38 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[27-Nov-2018 09:44:38 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[27-Nov-2018 09:44:38 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[27-Nov-2018 09:44:38 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[27-Nov-2018 09:44:38 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[27-Nov-2018 09:46:42 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[01-Dec-2018 05:18:54 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[02-Dec-2018 08:56:26 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[05-Dec-2018 05:18:00 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[05-Dec-2018 07:17:29 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[06-Dec-2018 04:27:16 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[06-Dec-2018 07:08:43 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[07-Dec-2018 04:35:49 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[07-Dec-2018 05:24:39 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[08-Dec-2018 05:57:15 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[10-Dec-2018 04:56:25 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[11-Dec-2018 06:43:37 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[12-Dec-2018 04:41:01 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[13-Dec-2018 05:22:08 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[17-Dec-2018 04:23:28 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[18-Dec-2018 05:01:42 Etc/GMT] PHP Notice:  Undefined index: test in /home/udyogconsultancy/public_html/display.php on line 7
+[18-Dec-2018 05:01:42 Etc/GMT] PHP Notice:  Undefined index: cname in /home/udyogconsultancy/public_html/display.php on line 9
+[18-Dec-2018 05:01:42 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/udyogconsultancy/public_html/display.php on line 10
+[18-Dec-2018 05:01:42 Etc/GMT] PHP Notice:  Undefined index: cphno in /home/udyogconsultancy/public_html/display.php on line 11
+[18-Dec-2018 05:01:42 Etc/GMT] PHP Notice:  Undefined index: amount in /home/udyogconsultancy/public_html/display.php on line 12
+[18-Dec-2018 05:03:08 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 340
+[18-Dec-2018 10:18:04 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[07-Jan-2020 05:28:07 Etc/GMT] PHP Notice:  Use of undefined constant employer - assumed 'employer' in /home/udyogconsultancy/public_html/employer.php on line 402
+[18-Jan-2020 06:47:56 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[18-Jan-2020 06:47:56 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[18-Jan-2020 06:53:11 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[18-Jan-2020 06:53:15 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[22-Jan-2020 07:39:04 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 212
+[22-Jan-2020 07:39:04 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 233
+[22-Jan-2020 07:39:04 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[22-Jan-2020 07:39:04 Etc/GMT] PHP Notice:  Undefined index: ccid in /home/udyogconsultancy/public_html/candidate_home.php on line 275
+[03-Mar-2020 06:04:38 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[03-Mar-2020 06:04:38 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[03-Mar-2020 09:26:11 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[13-Apr-2020 12:40:05 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[13-Apr-2020 12:40:05 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[13-Apr-2020 12:40:23 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[23-Jul-2020 10:15:35 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[23-Jul-2020 10:15:35 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[23-Jul-2020 10:16:06 Etc/GMT] PHP Notice:  Undefined variable: mail in /home/udyogconsultancy/public_html/empregister.php on line 55
+[23-Jul-2020 10:16:06 Etc/GMT] PHP Fatal error:  Call to a member function Send() on a non-object in /home/udyogconsultancy/public_html/empregister.php on line 55
+[23-Jul-2020 10:23:21 Etc/GMT] PHP Notice:  Undefined index: role in /home/udyogconsultancy/public_html/employer_message.php on line 122
+[18-Sep-2020 09:48:13 Etc/GMT] PHP Notice:  Use of undefined constant candidate - assumed 'candidate' in /home/udyogconsultancy/public_html/candidate_login.php on line 433

@@ -1,0 +1,64 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright 
+FontName Flaticon
+FontSubfamily Regular
+UniqueID FontForge 2.0 : Flaticon : 27-1-2020
+FullName Flaticon
+Version Version 001.000 
+PostScriptName Flaticon
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 49
+UnderlinePosition -125
+FontHeightOffset 90
+Ascender 889
+Descender -129
+FontBBox -16 -129 1016 889
+StartCharMetrics 44
+U 32 ; WX 391 ; N space ; G 3
+U 61696 ; WX 1000 ; N 001-money ; G 4
+U 61697 ; WX 1000 ; N 002-mortarboard ; G 5
+U 61698 ; WX 1000 ; N 003-shout ; G 6
+U 61699 ; WX 1000 ; N 004-radar ; G 7
+U 61700 ; WX 1000 ; N 005-sale ; G 8
+U 61701 ; WX 1000 ; N 006-pencil ; G 9
+U 61702 ; WX 1000 ; N 007-doctor ; G 10
+U 61703 ; WX 1000 ; N 008-truck ; G 11
+U 61704 ; WX 1000 ; N 009-work ; G 12
+U 61705 ; WX 1000 ; N 010-factory ; G 13
+U 61706 ; WX 1000 ; N 011-document ; G 14
+U 61707 ; WX 1000 ; N 012-user ; G 15
+U 61708 ; WX 1000 ; N 013-male ; G 16
+U 61709 ; WX 1000 ; N 014-comment ; G 17
+U 61710 ; WX 1000 ; N 015-heart ; G 18
+U 61711 ; WX 1000 ; N 016-apple ; G 19
+U 61712 ; WX 1000 ; N 017-robot ; G 20
+U 61713 ; WX 1000 ; N 018-logout ; G 21
+U 61714 ; WX 1000 ; N 019-plus ; G 22
+U 61715 ; WX 1000 ; N 020-pin ; G 23
+U 61716 ; WX 1000 ; N 021-time ; G 24
+U 61717 ; WX 1000 ; N 022-safe ; G 25
+U 61718 ; WX 1000 ; N 023-tick ; G 26
+U 61719 ; WX 1000 ; N 024-woman ; G 27
+U 61720 ; WX 1000 ; N 025-honor ; G 28
+U 61721 ; WX 1000 ; N 026-notepad ; G 29
+U 61722 ; WX 1000 ; N 027-view ; G 30
+U 61723 ; WX 1000 ; N 028-user-1 ; G 31
+U 61724 ; WX 1000 ; N 029-x ; G 32
+U 61725 ; WX 1000 ; N 030-request ; G 33
+U 61726 ; WX 1000 ; N 031-dashboard ; G 34
+U 61727 ; WX 1000 ; N 032-lock ; G 35
+U 61728 ; WX 1000 ; N 033-job ; G 36
+U 61729 ; WX 1000 ; N 034-portfolio ; G 37
+U 61730 ; WX 1000 ; N 035-buy ; G 38
+U 61731 ; WX 1000 ; N 036-alert ; G 39
+U 61732 ; WX 1000 ; N 037-search ; G 40
+U 61733 ; WX 1000 ; N 038-mail ; G 41
+U 61734 ; WX 1000 ; N 039-phone ; G 42
+U 61735 ; WX 1000 ; N 040-internet ; G 43
+EndCharMetrics
+EndFontMetrics
